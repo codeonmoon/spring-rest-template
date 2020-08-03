@@ -1,0 +1,253 @@
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 86051 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 86051 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 15:21:57 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-08-03 15:21:57 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 1 JPA repository interfaces.
+2020-08-03 15:21:57 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-03 15:21:57 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2020-08-03 15:21:57 INFO  o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-03 15:21:57 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-08-03 15:21:57 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 203 ms
+2020-08-03 15:21:57 INFO  c.z.h.HikariDataSource - HikariPool-2 - Starting...
+2020-08-03 15:21:57 INFO  c.z.h.HikariDataSource - HikariPool-2 - Start completed.
+2020-08-03 15:21:57 INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:test'
+2020-08-03 15:21:57 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 15:21:57 INFO  o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-08-03 15:21:57 INFO  o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-08-03 15:21:57 WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-03 15:21:57 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-08-03 15:21:57 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 15:21:57 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-03 15:21:57 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-03 15:21:57 INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+2020-08-03 15:21:57 INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - Started SpringdemoApplication in 0.629 seconds (JVM running for 886.73)
+2020-08-03 15:21:57 INFO  c.a.s.SpringdemoApplication - Started SpringdemoApplication in 0.629 seconds (JVM running for 886.73)
+2020-08-03 15:21:57 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-08-03 15:23:52 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 15:23:52 INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2020-08-03 15:23:52 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-03 15:23:52 WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2020-08-03 15:23:52 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2020-08-03 15:23:52 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown completed.
+2020-08-03 16:30:41 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87319 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:30:41 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87319 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:30:41 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:30:41 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:30:41 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-03 16:30:41 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-03 16:30:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-08-03 16:30:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36ms. Found 1 JPA repository interfaces.
+2020-08-03 16:30:42 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-03 16:30:42 INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-03 16:30:42 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2020-08-03 16:30:42 INFO  o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-03 16:30:42 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-08-03 16:30:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 959 ms
+2020-08-03 16:30:42 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-08-03 16:30:42 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-03 16:30:42 INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:test'
+2020-08-03 16:30:42 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:30:42 INFO  o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-08-03 16:30:42 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'toDoController': Unsatisfied dependency expressed through field 'restClient'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.adorsys.springdemo.service.RestClient' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2020-08-03 16:30:42 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 16:30:42 INFO  o.h.Version - HHH000412: Hibernate ORM core version 5.4.18.Final
+2020-08-03 16:30:42 INFO  o.h.a.c.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-08-03 16:30:42 INFO  o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-08-03 16:30:43 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-08-03 16:30:43 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 16:30:43 INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2020-08-03 16:30:43 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:30:43 WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2020-08-03 16:30:43 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-08-03 16:30:43 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-08-03 16:30:43 INFO  o.a.c.c.StandardService - Stopping service [Tomcat]
+2020-08-03 16:30:43 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-03 16:30:43 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restClient in com.adorsys.springdemo.controller.ToDoController required a bean of type 'com.adorsys.springdemo.service.RestClient' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.adorsys.springdemo.service.RestClient' in your configuration.
+
+2020-08-03 16:36:37 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87393 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:36:37 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87393 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:36:37 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:36:37 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:36:37 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-03 16:36:37 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-03 16:36:38 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-08-03 16:36:38 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41ms. Found 1 JPA repository interfaces.
+2020-08-03 16:36:38 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-03 16:36:38 INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-03 16:36:38 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2020-08-03 16:36:38 INFO  o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-03 16:36:38 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-08-03 16:36:38 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 873 ms
+2020-08-03 16:36:38 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-08-03 16:36:38 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-03 16:36:38 INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:test'
+2020-08-03 16:36:38 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:36:38 INFO  o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-08-03 16:36:38 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'toDoController': Unsatisfied dependency expressed through field 'restClient'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.adorsys.springdemo.service.RestClient' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2020-08-03 16:36:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 16:36:38 INFO  o.h.Version - HHH000412: Hibernate ORM core version 5.4.18.Final
+2020-08-03 16:36:39 INFO  o.h.a.c.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-08-03 16:36:39 INFO  o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-08-03 16:36:39 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-08-03 16:36:39 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 16:36:39 INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2020-08-03 16:36:39 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:36:39 WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2020-08-03 16:36:39 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-08-03 16:36:39 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-08-03 16:36:39 INFO  o.a.c.c.StandardService - Stopping service [Tomcat]
+2020-08-03 16:36:39 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-03 16:36:39 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restClient in com.adorsys.springdemo.controller.ToDoController required a bean of type 'com.adorsys.springdemo.service.RestClient' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.adorsys.springdemo.service.RestClient' in your configuration.
+
+2020-08-03 16:38:36 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87419 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:38:36 INFO  c.a.s.SpringdemoApplication - Starting SpringdemoApplication on MacBook.local with PID 87419 (/Users/manjarikumari/Downloads/SpringBootDemos/spring-demo/target/classes started by manjarikumari in /Users/manjarikumari/Downloads/SpringBootDemos/spring-demo)
+2020-08-03 16:38:36 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:38:36 INFO  c.a.s.SpringdemoApplication - No active profile set, falling back to default profiles: default
+2020-08-03 16:38:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-03 16:38:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-03 16:38:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-08-03 16:38:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36ms. Found 1 JPA repository interfaces.
+2020-08-03 16:38:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-08-03 16:38:37 INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-03 16:38:37 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2020-08-03 16:38:37 INFO  o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-03 16:38:37 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-08-03 16:38:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 835 ms
+2020-08-03 16:38:37 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-08-03 16:38:37 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-03 16:38:37 INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:test'
+2020-08-03 16:38:37 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:38:37 INFO  o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-08-03 16:38:37 INFO  o.h.Version - HHH000412: Hibernate ORM core version 5.4.18.Final
+2020-08-03 16:38:37 WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-03 16:38:37 INFO  o.h.a.c.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-08-03 16:38:37 INFO  o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-08-03 16:38:37 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-03 16:38:37 INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-08-03 16:38:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-03 16:38:37 INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+2020-08-03 16:38:38 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-08-03 16:38:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-08-03 16:38:38 INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
+2020-08-03 16:38:38 INFO  c.a.s.SpringdemoApplication - Started SpringdemoApplication in 1.974 seconds (JVM running for 2.635)
+2020-08-03 16:38:38 INFO  c.a.s.SpringdemoApplication - Started SpringdemoApplication in 1.974 seconds (JVM running for 2.635)
+2020-08-03 16:40:02 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-03 16:40:02 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-03 16:40:02 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-03 16:40:02 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-08-03 16:40:02 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([id1_0_] : [BIGINT]) - [1]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([city2_0_] : [VARCHAR]) - [Nürnberg]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([hobby3_0_] : [VARCHAR]) - [Cricket]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([name4_0_] : [VARCHAR]) - [Ankit Kumar Singh]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([id1_0_] : [BIGINT]) - [2]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([city2_0_] : [VARCHAR]) - [Erlangen]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([hobby3_0_] : [VARCHAR]) - [Football]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([name4_0_] : [VARCHAR]) - [Benjamin Köppl]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([id1_0_] : [BIGINT]) - [3]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([city2_0_] : [VARCHAR]) - [Nürnberg]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([hobby3_0_] : [VARCHAR]) - [Football]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([name4_0_] : [VARCHAR]) - [Lukas Dallhammer]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([id1_0_] : [BIGINT]) - [4]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([city2_0_] : [VARCHAR]) - [Frankfurt]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([hobby3_0_] : [VARCHAR]) - [Badminton]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([name4_0_] : [VARCHAR]) - [Manjari Kumari]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([id1_0_] : [BIGINT]) - [5]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([city2_0_] : [VARCHAR]) - [Nürnberg]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([hobby3_0_] : [VARCHAR]) - [Football]
+2020-08-03 16:40:02 TRACE o.h.t.d.s.BasicExtractor - extracted value ([name4_0_] : [VARCHAR]) - [Collins Kamgaing]
+2020-08-03 16:40:23 TRACE o.h.t.d.s.BasicBinder - binding parameter [1] as [BIGINT] - [10]
+2020-08-03 16:40:23 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Employee nicht gefunden 10] with root cause
+java.lang.RuntimeException: Employee nicht gefunden 10
+	at com.adorsys.springdemo.service.EmployeeServiceImpl.lambda$getEmployeeById$0(EmployeeServiceImpl.java:23)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
+	at com.adorsys.springdemo.service.EmployeeServiceImpl.getEmployeeById(EmployeeServiceImpl.java:23)
+	at com.adorsys.springdemo.controller.EmployeeController.getEmployeeById(EmployeeController.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
